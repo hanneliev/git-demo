@@ -3,4 +3,5 @@ This is the first file in this repo.
 
 
 ## Ipsum Below
-Some text that I added
+Some text that I added.
+Some more text
